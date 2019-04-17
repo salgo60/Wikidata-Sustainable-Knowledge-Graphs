@@ -6,7 +6,7 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
 
 ## Links 
 * SWIB18 OCLC Karen Smith-Yoshimura [Linked data implementations — who, what, why?](https://youtu.be/K0l4fv5uUvg?t=938) *The biggest change in sources consumed 2018 is Wikidata*
-* In Germany German National Library [GND](https://en.wikipedia.org/wiki/Integrated_Authority_File) are starting using Wikibase together with FactGrid [Memorandum of Understanding zwischen der Universität Erfurt und der Deutschen Nationalbibliothek – das FactGrid wird in einem Gemeinschaftsprojekt auf GND-Daten aufgesetzt](https://blog.factgrid.de/archives/1475)
+* In Germany German National Library [GND](https://en.wikipedia.org/wiki/Integrated_Authority_File) are starting using Wikibase together with FactGrid [Memorandum of Understanding between the University of Erfurt and the German National Library – to base the FactGrid on GND data in a joint project](https://blog.factgrid.de/archives/1527)
 ### Wikidata / Wikibase
 * [Wikidata and Wikibase roadmap for 2019 ](https://www.wikidata.org/wiki/Wikidata:Development_plan)
   * Basic ShEx support
