@@ -47,7 +47,7 @@ Lesson learned is if people start add referencies we will se rather soon how fas
 
 
 ### Using Wikidata for Literary signs in Stockholm - qrpedia.org
-* [List](https://sv.wikipedia.org/wiki/Anv%C3%A4ndare:Salgo60/Listeria/Det_litter%C3%A4ra_Stockholm)
+* [List](https://sv.wikipedia.org/wiki/Anv%C3%A4ndare:Salgo60/Listeria/Det_litter%C3%A4ra_Stockholm)/ ([Map](https://tinyurl.com/y5wgsmgq)
 ==> we could easily present the authors in Wikipedia in more languages using the mobile settings of the phone using [qrpedia.org](http://qrpedia.org)
 
 ![qrpedia](https://2.bp.blogspot.com/-7NqOqby44w8/XLcjqVn7nZI/AAAAAAAAyzI/79JMAmhr0Zk9zgEA8meqVKnjf-54_DOPACLcBGAs/s1600/Astrid%2BLindgren.png)
