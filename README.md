@@ -47,7 +47,31 @@ Lesson learned is if people start add referencies we will se rather soon how fas
 
 
 ### Using Wikidata for Literary signs in Stockholm - qrpedia.org
-* [List](https://sv.wikipedia.org/wiki/Anv%C3%A4ndare:Salgo60/Listeria/Det_litter%C3%A4ra_Stockholm)/ ([Map](https://tinyurl.com/y5wgsmgq)
+* [List](https://sv.wikipedia.org/wiki/Anv%C3%A4ndare:Salgo60/Listeria/Det_litter%C3%A4ra_Stockholm)/[Map](https://tinyurl.com/y5wgsmgq)
 ==> we could easily present the authors in Wikipedia in more languages using the mobile settings of the phone using [qrpedia.org](http://qrpedia.org)
 
 ![qrpedia](https://2.bp.blogspot.com/-7NqOqby44w8/XLcjqVn7nZI/AAAAAAAAyzI/79JMAmhr0Zk9zgEA8meqVKnjf-54_DOPACLcBGAs/s1600/Astrid%2BLindgren.png)
+
+### Using Wikidata for an Openair museum Skansen and connect with Open Street map
+* [List](https://sv.wikipedia.org/wiki/Anv%C3%A4ndare:Salgo60/Listeria/Skansen/WD_objekt) - [Open Street map](http://overpass-turbo.eu/s/F3v) Wikidata connected objects
+
+### Using Wikidata for Swedish church parishes to make life easeier doing Genealogy
+* Wikidata contains a connection between Swedish National Archives , SCB....
+* [Map](https://salgo60.github.io/Svenskaforsamlingar/index_light.html)
+* Task [T199792](https://phabricator.wikimedia.org/T199792)
+
+![Församlingar](https://phab.wmfusercontent.org/file/data/ictf7qpotka4ba7lqgvx/PHID-FILE-sp52dgz4ahqmqhvwgt2t/SCB2.png)
+
+* Using the same data to help a Genealogy company to get navigation using maps [Task T199907](https://phabricator.wikimedia.org/T199907)
+
+![AD](https://phab.wmfusercontent.org/file/data/heor3ryimowx47fdgffh/PHID-FILE-uaccqydnqnlvel3pdf6y/image.png)
+
+* Giving Family Search access to free church books from +1000 pages with 4 lines in the code [Task T200515](https://phabricator.wikimedia.org/T200515)
+
+![Family Search](https://phab.wmfusercontent.org/file/data/uegodqwcfcmrz66fg3vj/PHID-FILE-3zzakkzkjvdahj2huztq/image.png)
+
+### Using Wikidata for adding +1500 discussion groups about genealogy on a map
+
+* Task [T218200](https://phabricator.wikimedia.org/T218200)
+
+![Anbytarforum](https://phab.wmfusercontent.org/file/data/nvb6z53wk4pkmqf5oxrd/PHID-FILE-asqaoe3b7f62r4mcpxop/image.png)
