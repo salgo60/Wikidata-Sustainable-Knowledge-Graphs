@@ -73,5 +73,6 @@ Lesson learned is if people start add referencies we will se rather soon how fas
 ### Using Wikidata for adding +1500 discussion groups about genealogy on a map
 
 * Task [T218200](https://phabricator.wikimedia.org/T218200)
+  * Example [Map](https://tinyurl.com/y5fxahzg)
 
 ![Anbytarforum](https://phab.wmfusercontent.org/file/data/nvb6z53wk4pkmqf5oxrd/PHID-FILE-asqaoe3b7f62r4mcpxop/image.png)
