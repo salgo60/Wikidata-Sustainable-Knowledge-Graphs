@@ -1,4 +1,4 @@
-# Wikidata frined or foo short presentatin at [Sustainable Knowledge Graphs and AI](https://www.eventbrite.com/e/sustainable-knowledge-graphs-and-ai-tickets-56101091876)
+# Wikidata frined or foo short presentation at [Sustainable Knowledge Graphs and AI](https://www.eventbrite.com/e/sustainable-knowledge-graphs-and-ai-tickets-56101091876)
 
 Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI](https://www.eventbrite.com/e/sustainable-knowlege-graphs-and-ai-tickets-56101091876)
 
