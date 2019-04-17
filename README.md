@@ -3,15 +3,16 @@
 Repository for a short presentation 2019 at Sustainable Knowledge Graphs and AI
 
 
-## Links
-* 
+## Links 
 ### Wikidata / Wikibase
 * [Wikidata and Wikibase roadmap for 2019 ](https://www.wikidata.org/wiki/Wikidata:Development_plan)
   * Basic ShEx support
-  * Signed statements
-  * Lexicographical data support
+    * [Wikidata:WikiProject_ShEx](https://www.wikidata.org/wiki/Wikidata:WikiProject_ShEx)
+    * [GITHUB shexSpec/schemas](https://github.com/shexSpec/schemas/tree/master/Wikidata)
+  * Signed statements [Epic Signed statements](https://phabricator.wikimedia.org/T138708)
+  * [Lexicographical data support](https://www.wikidata.org/wiki/Wikidata:Lexicographical_data)
   * Federation (ontology reuse)
-  * Develop a partnership model around Wikibase
+  * *Develop a partnership model around Wikibase*
   * [Wikidata Con 2019 25 – 26 October 2019 | Berlin](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2019)
 * [Wikibase wikiba.se](http://wikiba.se/)
   * Installations
