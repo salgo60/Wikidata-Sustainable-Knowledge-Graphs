@@ -22,6 +22,7 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
     * [Lingua Libre](https://blog.wikimedia.de/2018/12/14/many-faces-of-wikibase-lingua-libre-makes-%CB%88laen%CC%A9%C9%A1w%C9%AAd%CA%92%C9%99z-audible/) / [Mainpage](https://lingualibre.fr/wiki/LinguaLibre:Main_Page)
     * [factgrid](https://blog.factgrid.de/)/ [Mainpage](http://database.factgrid.de)
       * [Map with letters sent from Hannover](http://tinyurl.com/yyd6cxe3)
+      * [Interview how to use Wikibase for research](https://blog.factgrid.de/archives/1215) (german [Google translate](https://translate.google.com/translate?hl=&sl=de&tl=en&u=https%3A%2F%2Fblog.factgrid.de%2Farchives%2F1215))
     * [Wikicommons Structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data) - Wikibase installation but for pictures in Wikipedia - [Test commons that supports version 1 of depicts](https://test-commons.wikimedia.org/wiki/File:Godward_Idleness_1900-dupe!.jpg)
 * Support for +300 languages and now also languages as [Kemi Akkala...](https://phabricator.wikimedia.org/T217521)
 * SPARQL Federation - Wikidata <-> Nobelprize.org [task](https://phabricator.wikimedia.org/T200668) [list](https://www.wikidata.org/wiki/User:Salgo60/ListeriaNobelData3)
