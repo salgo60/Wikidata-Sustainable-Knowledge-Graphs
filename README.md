@@ -37,3 +37,13 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
 
 * Generating IIIF manifest [wd-image-positions/iiif/Q1231009/P18/manifest.json](https://tools.wmflabs.org/wd-image-positions/iiif/Q1231009/P18/manifest.json)
   * [Mirador The Coronation of Napoleon](https://tools.wmflabs.org/mirador/?manifest=https://tools.wmflabs.org/wd-image-positions/iiif/Q1231009/P18/manifest.json)
+
+### Using Wikidata as a hub for Swedish culture properties
+Lesson learned is if people start add referencies we will se rather soon how fast new sources are added as we will have an overlap e.g. National Archive of Sweden, National Library of Sweden and
+
+
+### Using Wikidata for Literary signs in Stockholm - qrpedia.org
+* [List](https://sv.wikipedia.org/wiki/Anv%C3%A4ndare:Salgo60/Listeria/Det_litter%C3%A4ra_Stockholm)
+==> we could easily present the authors in Wikipedia in more languages using the mobile settings of the phone using [qrpedia.org](http://qrpedia.org)
+
+![qrpedia](https://2.bp.blogspot.com/-7NqOqby44w8/XLcjqVn7nZI/AAAAAAAAyzI/79JMAmhr0Zk9zgEA8meqVKnjf-54_DOPACLcBGAs/s1600/Astrid%2BLindgren.png)
