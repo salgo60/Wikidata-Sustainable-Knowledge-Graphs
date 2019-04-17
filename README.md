@@ -1,6 +1,7 @@
 # Wikidata frined or foo short presentation at [Sustainable Knowledge Graphs and AI](https://www.eventbrite.com/e/sustainable-knowledge-graphs-and-ai-tickets-56101091876)
 
 Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI](https://www.eventbrite.com/e/sustainable-knowlege-graphs-and-ai-tickets-56101091876)
+* query [Lea on FB](https://www.facebook.com/groups/WikidataCommunity/permalink/2330867843865046/?comment_id=2332175813734249&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 
 
 ## Links 
