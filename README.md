@@ -17,6 +17,7 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
   * Federation (ontology reuse)
   * *Develop a partnership model around Wikibase*
   * [Wikidata Con 2019 25 – 26 October 2019 | Berlin](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2019)
+  * [Wikidata on Facebook](https://www.facebook.com/groups/WikidataCommunity/)
 * [Wikibase wikiba.se](http://wikiba.se/)
   * Installations
     * [Lingua Libre](https://blog.wikimedia.de/2018/12/14/many-faces-of-wikibase-lingua-libre-makes-%CB%88laen%CC%A9%C9%A1w%C9%AAd%CA%92%C9%99z-audible/) / [Mainpage](https://lingualibre.fr/wiki/LinguaLibre:Main_Page)
@@ -24,6 +25,8 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
       * [Map with letters sent from Hannover](http://tinyurl.com/yyd6cxe3)
       * [Interview how to use Wikibase for research](https://blog.factgrid.de/archives/1215) (german [Google translate](https://translate.google.com/translate?hl=&sl=de&tl=en&u=https%3A%2F%2Fblog.factgrid.de%2Farchives%2F1215))
     * [Wikicommons Structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data) - Wikibase installation but for pictures in Wikipedia - [Test commons that supports version 1 of depicts](https://test-commons.wikimedia.org/wiki/File:Godward_Idleness_1900-dupe!.jpg)
+    * [OCLC Linked data prototype using Wikibase](https://www.oclc.org/research/themes/data-science/linkeddata/linked-data-prototype.html)
+  * [Wikibase Community User Group](https://meta.wikimedia.org/wiki/Wikibase_Community_User_Group) has an active telegram group
 * Support for +300 languages and now also languages as [Kemi Akkala...](https://phabricator.wikimedia.org/T217521)
 * SPARQL Federation - Wikidata <-> Nobelprize.org [task](https://phabricator.wikimedia.org/T200668) [list](https://www.wikidata.org/wiki/User:Salgo60/ListeriaNobelData3)
 ![RoadMap](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wikidata_roadmap_2019_-_block_view_-_Dec2018_02.png/1000px-Wikidata_roadmap_2019_-_block_view_-_Dec2018_02.pngg)
