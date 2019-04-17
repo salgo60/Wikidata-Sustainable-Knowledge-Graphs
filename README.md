@@ -17,7 +17,8 @@ Repository for a short presentation 2019 at Sustainable Knowledge Graphs and AI
 * [Wikibase wikiba.se](http://wikiba.se/)
   * Installations
     * [Lingua Libre](https://blog.wikimedia.de/2018/12/14/many-faces-of-wikibase-lingua-libre-makes-%CB%88laen%CC%A9%C9%A1w%C9%AAd%CA%92%C9%99z-audible/) / [Mainpage](https://lingualibre.fr/wiki/LinguaLibre:Main_Page)
-    * 
+    * [factgrid](https://blog.factgrid.de/)/ [Mainpage](http://database.factgrid.de)
+    * [Wikicommons Structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data) - i WIkibase installation but for pictures
 * Support for +300 languages and now also languages as [Kemi Akkala...](https://phabricator.wikimedia.org/T217521)
 * SPARQL Federation - Wikidata <-> Nobelprize.org [task](https://phabricator.wikimedia.org/T200668) [list](https://www.wikidata.org/wiki/User:Salgo60/ListeriaNobelData3)
 ![RoadMap](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wikidata_roadmap_2019_-_block_view_-_Dec2018_02.png/1000px-Wikidata_roadmap_2019_-_block_view_-_Dec2018_02.pngg)
