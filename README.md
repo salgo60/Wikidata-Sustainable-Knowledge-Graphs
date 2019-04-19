@@ -88,3 +88,15 @@ Lesson learned is if people start add referencies we will se rather soon how fas
 
 * Task [217470](https://phabricator.wikimedia.org/T217470)
   * GITHUB project [salgo60/SamlaLibris](https://github.com/salgo60/SamlaLibris) connecting churches [map](http://w.wiki/38V)
+  
+## Tools and Resources
+* News and overviews:
+ * Asof Bartov’s “[A Gentle Introduction to Wikidata for Absolute Beginners [including non-techies!]](https://www.wikidata.org/wiki/Q28742981)”
+ * The [Wikidata mailing list](https://lists.wikimedia.org/mailman/listinfo/wikidata) is a weekly newsletter detailing events, resources and new properties and developments.
+ * There is an active [Facebook group](https://www.facebook.com/groups/WikidataCommunity/) and a Twitter community around the [#wikidata](https://twitter.com/search?f=tweets&vertical=default&q=%23wikidata) hashtag
+* Development
+ * [Module:Wikidata](https://en.wikipedia.org/wiki/Module:Wikidata) – English Wikipedia module for accessing data from the Wikidata item associated with a given article (or any article)
+ * [Reconciling datasets with Wikidata via OpenRefine](https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine)
+ * [Wikidata SPARQL query help](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/Wikidata_Query_Help)
+ * Wikidata is an instance of the Wikibase software, a specialization of MediaWiki, and supports the MediaWiki API with a module that adds Wikibase-specific “wb” actions: https://www.wikidata.org/w/api.php
+
