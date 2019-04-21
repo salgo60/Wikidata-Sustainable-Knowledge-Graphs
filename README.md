@@ -8,6 +8,7 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
 * SWIB18 OCLC Karen Smith-Yoshimura [Linked data implementations — who, what, why?](https://youtu.be/K0l4fv5uUvg?t=938) *The biggest change in sources consumed 2018 is Wikidata*
 * In Germany German National Library [GND](https://en.wikipedia.org/wiki/Integrated_Authority_File) are starting using Wikibase together with FactGrid [Memorandum of Understanding between the University of Erfurt and the German National Library – to base the FactGrid on GND data in a joint project](https://blog.factgrid.de/archives/1527)
 * ARL White Paper on Wikidata Highlights Use of Open Knowledge in Scholarly Communication, Special Collections [pdf](https://www.arl.org/storage/documents/publications/2019.04.18-ARL-white-paper-on-Wikidata.pdf) - "Wikidata and Wikibase Lower Barriers to LOD, Help Scale Its Applications"
+* Workboard for Tasks created [wmse-riksarkivet-tora](https://phabricator.wikimedia.org/tag/wmse-riksarkivet-tora/)
 ### Trust
 * [How Katie Bouman Shook Wikipedia](https://slate.com/technology/2019/04/katie-bouman-wikipedia-page-deletion-black-hole.html)
 ## Wikidata / Wikibase
@@ -29,7 +30,12 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
       * [Interview how to use Wikibase for research](https://blog.factgrid.de/archives/1215) (german [Google translate](https://translate.google.com/translate?hl=&sl=de&tl=en&u=https%3A%2F%2Fblog.factgrid.de%2Farchives%2F1215))
     * [Wikicommons Structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data) - Wikibase installation but for pictures in Wikipedia - [Test commons that supports version 1 of depicts](https://test-commons.wikimedia.org/wiki/File:Godward_Idleness_1900-dupe!.jpg)
     * [OCLC Linked data prototype using Wikibase](https://www.oclc.org/research/themes/data-science/linkeddata/linked-data-prototype.html)
+    * Rhizome [interview](https://wikimediafoundation.org/2018/09/06/rhizome-wikibase/)
+      * [Presentation xxxx](https://readinginternational.org/programme/ri-talk-4-lozana-rossenova-archiving-digital-social-memory/) / [Presentation xxx](https://docs.google.com/presentation/d/1pRKNTTzCOjNa9KVXJghxcWdrSoYAsE7BE2ooj8QfVnA/edit#slide=id.p)
+    * Enslaved.org [presentation](https://docs.google.com/presentation/d/11Sp4XVuAM_Y7rXc1EY-BeBVf0UMTlA8JsA-y2Ftiscs/edit#slide=id.p3)
   * [Wikibase Community User Group](https://meta.wikimedia.org/wiki/Wikibase_Community_User_Group) has an active telegram group
+* Wikidata project
+  * Smithsnia and Wmen in Science [presentation](Wikidata and the Smithsonian)
 * Support for +300 languages and now also languages as [Kemi Akkala...](https://phabricator.wikimedia.org/T217521)
 * SPARQL Federation - Wikidata <-> Nobelprize.org [task](https://phabricator.wikimedia.org/T200668) [list](https://www.wikidata.org/wiki/User:Salgo60/ListeriaNobelData3)
 ![RoadMap](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wikidata_roadmap_2019_-_block_view_-_Dec2018_02.png/1000px-Wikidata_roadmap_2019_-_block_view_-_Dec2018_02.pngg)
