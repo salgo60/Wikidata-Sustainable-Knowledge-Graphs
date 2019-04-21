@@ -33,7 +33,7 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
     * Rhizome [interview](https://wikimediafoundation.org/2018/09/06/rhizome-wikibase/)
       * [Presentation xxxx](https://readinginternational.org/programme/ri-talk-4-lozana-rossenova-archiving-digital-social-memory/) / [Presentation xxx](https://docs.google.com/presentation/d/1pRKNTTzCOjNa9KVXJghxcWdrSoYAsE7BE2ooj8QfVnA/edit#slide=id.p)
     * Enslaved.org [presentation](https://docs.google.com/presentation/d/11Sp4XVuAM_Y7rXc1EY-BeBVf0UMTlA8JsA-y2Ftiscs/edit#slide=id.p3)
-    * Genewiki - [presentation](https://docs.google.com/presentation/d/1cdICotZOtXww2Ig4J0DHZi0WryXfUbrrK9S6mXmUHWM/edit?ts=5ba15db1#slide=id.g41f7933433_0_0)
+    * Genewiki - [WikiProject Gene Wiki](https://www.wikidata.org/wiki/Wikidata:WikiProject_Gene_Wiki)
   * [Wikibase Community User Group](https://meta.wikimedia.org/wiki/Wikibase_Community_User_Group) has an active telegram group
 * Wikidata project
   * Smithsnia and Wmen in Science [presentation](Wikidata and the Smithsonian)
