@@ -35,6 +35,7 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
     * Enslaved.org [presentation](https://docs.google.com/presentation/d/11Sp4XVuAM_Y7rXc1EY-BeBVf0UMTlA8JsA-y2Ftiscs/edit#slide=id.p3)
     * Genewiki - [WikiProject Gene Wiki](https://www.wikidata.org/wiki/Wikidata:WikiProject_Gene_Wiki)
   * [Wikibase Community User Group](https://meta.wikimedia.org/wiki/Wikibase_Community_User_Group) has an active telegram group
+  * [Wikibase workshop NYC 24 oct 2018](https://wikimediafoundation.org/2018/10/24/wikibasenyc-conference/) Wikidata workshop gathered a subgroup of these pioneering data explorers to better understand how to realize Wikibase as a robust independent project distinct from the Wikidata platform,
 * Wikidata project
   * Smithsnia and Wmen in Science [presentation](Wikidata and the Smithsonian)
 * Support for +300 languages and now also languages as [Kemi Akkala...](https://phabricator.wikimedia.org/T217521)
