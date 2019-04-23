@@ -71,6 +71,7 @@ Lesson learned is if people start add referencies we will se rather soon how fas
 * Wikidata contains a connection between Swedish National Archives , SCB....
 * [Map](https://salgo60.github.io/Svenskaforsamlingar/index_light.html)
 * Task [T199792](https://phabricator.wikimedia.org/T199792)
+  * [Graf Swedish Church parishes](https://angryloki.github.io/wikidata-graph-builder/?property=P279&item=Q615980&lang=en)
 
 ![Församlingar](https://phab.wmfusercontent.org/file/data/ictf7qpotka4ba7lqgvx/PHID-FILE-sp52dgz4ahqmqhvwgt2t/SCB2.png)
 
