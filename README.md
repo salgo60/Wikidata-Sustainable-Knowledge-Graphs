@@ -11,6 +11,9 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
 * Workboard for Tasks created [wmse-riksarkivet-tora](https://phabricator.wikimedia.org/tag/wmse-riksarkivet-tora/)
 ### Trust
 * [How Katie Bouman Shook Wikipedia](https://slate.com/technology/2019/04/katie-bouman-wikipedia-page-deletion-black-hole.html)
+### ShEx
+* [Tweet about support in Wikidata](https://twitter.com/andrawaag/status/1121790963393814529)
+* [Workboard shape_expressions/](https://phabricator.wikimedia.org/tag/shape_expressions/) / [Wikidata_talk:WikiProject_ShEx](https://www.wikidata.org/wiki/Wikidata_talk:WikiProject_ShEx)
 ## Wikidata / Wikibase
 * [Wikidata and Wikibase roadmap for 2019 ](https://www.wikidata.org/wiki/Wikidata:Development_plan)
   * Basic ShEx support
