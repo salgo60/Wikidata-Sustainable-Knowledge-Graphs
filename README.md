@@ -14,6 +14,9 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
 ### ShEx
 * [Tweet about support in Wikidata](https://twitter.com/andrawaag/status/1121790963393814529)
 * [Workboard shape_expressions/](https://phabricator.wikimedia.org/tag/shape_expressions/) / [Wikidata_talk:WikiProject_ShEx](https://www.wikidata.org/wiki/Wikidata_talk:WikiProject_ShEx)
+
+### GITHUB repositories worth checking
+* [https://github.com/wetneb/opentapioca](https://github.com/wetneb/opentapioca) example [Named Entity Linking system](
 ## Wikidata / Wikibase
 * [Wikidata and Wikibase roadmap for 2019 ](https://www.wikidata.org/wiki/Wikidata:Development_plan)
   * Basic ShEx support
@@ -25,8 +28,8 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
   * *Develop a partnership model around Wikibase*
   * [Wikidata Con 2019 25 – 26 October 2019 | Berlin](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2019)
   * [Wikidata on Facebook](https://www.facebook.com/groups/WikidataCommunity/)
-* [Wikibase wikiba.se](http://wikiba.se/)
-  * Installations
+* [Wikibase wikiba.se](http://wikiba.se/) / [Wikibase reistry](https://wikibase-registry.wmflabs.org/wiki/Main_Page)
+  * Installations [Timeline](http://tinyurl.com/y8xun3wy)
     * [Lingua Libre](https://blog.wikimedia.de/2018/12/14/many-faces-of-wikibase-lingua-libre-makes-%CB%88laen%CC%A9%C9%A1w%C9%AAd%CA%92%C9%99z-audible/) / [Mainpage](https://lingualibre.fr/wiki/LinguaLibre:Main_Page)
     * [factgrid](https://blog.factgrid.de/)/ [Mainpage](http://database.factgrid.de)
       * [Map with letters sent from Hannover](http://tinyurl.com/yyd6cxe3)
