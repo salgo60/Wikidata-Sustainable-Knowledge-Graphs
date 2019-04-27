@@ -20,6 +20,7 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
 * [Opentapioca](https://github.com/wetneb/opentapioca) example Named Entity Linking system - test [opentapioca.org](https://opentapioca.org/#)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 * [wikidata-sdk](https://github.com/maxlath/wikidata-sdk)
+* [joakin/context-cards](https://github.com/joakin/context-cards) / [test page](https://chimeces.com/context-cards/test.html)
 ## Wikidata / Wikibase
 * [Wikidata and Wikibase roadmap for 2019 ](https://www.wikidata.org/wiki/Wikidata:Development_plan)
   * Basic ShEx support
