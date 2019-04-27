@@ -17,7 +17,9 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
 * [Workboard shape_expressions/](https://phabricator.wikimedia.org/tag/shape_expressions/) / [Wikidata_talk:WikiProject_ShEx](https://www.wikidata.org/wiki/Wikidata_talk:WikiProject_ShEx)
 
 ### GITHUB repositories worth checking
-* [https://github.com/wetneb/opentapioca](https://github.com/wetneb/opentapioca) example [Named Entity Linking system](
+* [Opentapioca](https://github.com/wetneb/opentapioca) example Named Entity Linking system - test [opentapioca.org](https://opentapioca.org/#)
+* [OpenRefine](https://github.com/OpenRefine/OpenRefine)
+* [wikidata-sdk](https://github.com/maxlath/wikidata-sdk)
 ## Wikidata / Wikibase
 * [Wikidata and Wikibase roadmap for 2019 ](https://www.wikidata.org/wiki/Wikidata:Development_plan)
   * Basic ShEx support
