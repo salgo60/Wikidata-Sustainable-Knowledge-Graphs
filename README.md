@@ -46,6 +46,7 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
     * Enslaved.org [presentation](https://docs.google.com/presentation/d/11Sp4XVuAM_Y7rXc1EY-BeBVf0UMTlA8JsA-y2Ftiscs/edit#slide=id.p3)
     * Genewiki - [WikiProject Gene Wiki](https://www.wikidata.org/wiki/Wikidata:WikiProject_Gene_Wiki)
       * [Gene Wiki: Making data FAIR on Wikidata](https://figshare.com/articles/Gene_Wiki_Making_data_FAIR_on_Wikidata/8034266/1)
+    * [New ways of creating and sharing bibliographic information: an experiment of using the Wikibase Data Model for UNIMARC data](https://www.jlis.it/article/view/12458/11344)
   * [Wikibase Community User Group](https://meta.wikimedia.org/wiki/Wikibase_Community_User_Group) has an active telegram group
   * [Wikibase workshop NYC 24 oct 2018](https://wikimediafoundation.org/2018/10/24/wikibasenyc-conference/) Wikidata workshop gathered a subgroup of these pioneering data explorers to better understand how to realize Wikibase as a robust independent project distinct from the Wikidata platform,
 * Wikidata project
