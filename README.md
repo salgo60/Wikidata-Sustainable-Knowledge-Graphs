@@ -104,6 +104,7 @@ Lesson learned is if people start add referencies we will se rather soon how fas
 ![Anbytarforum](https://phab.wmfusercontent.org/file/data/nvb6z53wk4pkmqf5oxrd/PHID-FILE-asqaoe3b7f62r4mcpxop/image.png)
 
 #### Adding Linked data to a book about graves in a Swedish Church and maybe in the future do indoor navigation
+A check how books are represented in a Linked Data slution frm the National Library of Sweden [LIBRISXL](https://libris.kb.se/katalogisering/) and at the [Swedish National Heritage Board)(https://en.wikipedia.org/wiki/Swedish_National_Heritage_Board) in SAMLA [RAÄ)
 ![The book](https://phab.wmfusercontent.org/file/data/v53nesw7pwjlscwvkjsa/PHID-FILE-jc7dad6luhzh3bl45xqj/image.png)
 
 ![The church](https://phab.wmfusercontent.org/file/data/6dtroq36eiiaumohlygx/PHID-FILE-smxaloc55owfxfidl55e/image.png)
