@@ -3,6 +3,8 @@
 Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI](https://www.eventbrite.com/e/sustainable-knowlege-graphs-and-ai-tickets-56101091876)
 * [Presentation](https://docs.google.com/presentation/d/1J1eZ40fW59zEQsRxFnoVjuzXkjfPYM6BegsLdgANtd0/edit?usp=sharing)
 * [Video of presentation](https://www.youtube.com/watch?v=mpLcTSG7VPg)
+* Phabricator
+  * [WikidataCon 2019: We need a better model communicating quality/relevance of sources in Wikidata / Provenance](https://phabricator.wikimedia.org/T222142)
 
 
 ## Links 
