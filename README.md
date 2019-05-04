@@ -6,6 +6,7 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
 * Phabricator
   * [WikidataCon 2019: We need a better model communicating quality/relevance of sources in Wikidata / Provenance](https://phabricator.wikimedia.org/T222142)
 
+![Trust and Turf](https://pbs.twimg.com/media/D5FjgJDUEAEF1x-.png)
 
 ## Links 
 * [Wikidata gives wings to open knowledge](https://internethealthreport.org/2019/wikidata-gives-wings-to-open-knowledge/)
@@ -125,3 +126,5 @@ A check how books are represented in a Linked Data solution from the National Li
   * [Wikidata SPARQL query help](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/Wikidata_Query_Help)
   * Wikidata is an instance of the Wikibase software, a specialization of MediaWiki, and supports the MediaWiki API with a module that adds Wikibase-specific “wb” actions: https://www.wikidata.org/w/api.php
 
+![Trust and Turf](https://pbs.twimg.com/media/D5Fjj_4UYAA_0Zo.jpg)
+picture from FutureLearn "[Introduction to strategic doing](https://www.futurelearn.com/courses/strategic-doing/0/steps/42973)"
