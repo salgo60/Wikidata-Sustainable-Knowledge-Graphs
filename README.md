@@ -7,7 +7,7 @@ Repository for a short presentation 2019 at [Sustainable Knowledge Graphs and AI
   * [WikidataCon 2019: We need a better model communicating quality/relevance of sources in Wikidata / Provenance](https://phabricator.wikimedia.org/T222142)
 
 ![Trust and Turf](https://pbs.twimg.com/media/D5FjgJDUEAEF1x-.png)
-
+[Introduction to Strategic Doing](https://www.futurelearn.com/courses/strategic-doing/0/steps/42973)
 ## Links 
 * [Wikidata gives wings to open knowledge](https://internethealthreport.org/2019/wikidata-gives-wings-to-open-knowledge/)
 * SWIB18 OCLC Karen Smith-Yoshimura [Linked data implementations — who, what, why?](https://youtu.be/K0l4fv5uUvg?t=938) *The biggest change in sources consumed 2018 is Wikidata*
